@@ -1,6 +1,5 @@
 # EXCEL-SQL-Project
 Project Title: OKHAI - Strategic Analysis and Advertising Campaign Management for Okhai's New Sustainable Fashion Collection
-Date of Submission: August 16, 2024
 
 **Project Overview**
 This project focuses on the strategic analysis and advertising campaign management for Okhai's new sustainable fashion collection. Okhai is an online startup offering sustainable occasion wear for women and children, with a strong commitment to ecological and ethical fashion. The goal of the project is to develop an effective advertising campaign that promotes the new collection, raises brand awareness, and increases sales, all while adhering to a budget of INR 100,000.
